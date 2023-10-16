@@ -28,13 +28,13 @@ Considering the trainging time, the datasets used in the repository are movielen
 
 ### "RMSE & MAE with value of β"
 <p align="center">
-<img src="imgs/β.png"/>
+<img src="imgs/beta.png"/>
 </p>
 
 ### "Convergence curve"
 
 <p align="center">
-<img src="imgs/convergence.png"/>
+<img src="imgs/Convergence.png"/>
 </p>
 
 ### "minRMSE & minMAE"
