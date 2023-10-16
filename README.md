@@ -18,6 +18,7 @@ All datasets used in this Paper are follows.
 |  Flixter   | 7,181  | 253,820 |      30      |    0.11%     |
 |   Douban   | 11,751 | 270,667 |      5       |    0.22%     |
 
+Considering the trainging time, the datasets used in the repository are movielens-1k and movielens-100k.
 ## Results
 
 ### "RMSE & MAE with value of m"
@@ -30,8 +31,13 @@ All datasets used in this Paper are follows.
 <img src="imgs/β.png"/>
 </p>
 
+### "Convergence curve"
 
-### "RMSE & MAE"
+<p align="center">
+<img src="imgs/convergence.png"/>
+</p>
+
+### "minRMSE & minMAE"
 
 <p align="center">
 <img src="imgs/result.png"/>
